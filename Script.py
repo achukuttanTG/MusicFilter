@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """<b>𝖧𝖾𝗒 {}, 𝖨 𝖺𝗆 𝖺 𝖬𝗎𝗌𝗂𝖼 𝖥𝗂𝗅𝗍𝖾𝗋 𝖡𝗈𝗍 𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅𝗅𝗒 𝖬𝖺𝖽𝖾 𝖥𝗈𝗋 𝖳𝖾𝖺𝗆 <a href='https://t.me/beatsrip'>𝖡𝖤𝖠𝖳𝖲𝖱𝗂𝗉 .</a></b>
+    START_TXT = """<b>𝖧𝖾𝗒 {}, 𝖨 𝖺𝗆 𝖺 𝖬𝗎𝗌𝗂𝖼 𝖥𝗂𝗅𝗍𝖾𝗋 𝖡𝗈𝗍 𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅𝗅𝗒 𝖬𝖺𝖽𝖾 𝖡𝗒 𝖳𝖾𝖺𝗆 <a href='https://t.me/beatsrip'>𝖡𝖤𝖠𝖳𝖲𝖱𝗂𝗉 .</a></b>
 """
     HELP_TXT = """ʜᴇʏ {}
 ʜᴇʀᴇ ɪs ᴍʏ ʜᴇʟᴘ ᴄᴏᴍᴍᴀɴᴅs."""
@@ -105,5 +105,6 @@ Added By - {}
     LOG_TEXT_P = """#NewUser
 ID - <code>{}</code>
 Name - {}
-𝖫𝗈𝗀 𝖻𝗒 - @DK_BOTx
+
+𝖫𝗈𝗀 𝖻𝗒 - Eᴅɢᴀʀ
 """
