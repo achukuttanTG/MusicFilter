@@ -49,7 +49,7 @@ async def save_group(bot, message):
         if settings["welcome"]:
             for u in message.new_chat_members:
                 buttons = [[
-                InlineKeyboardButton('🌀 Jᴏɪɴ Fᴏʀ Mᴏʀᴇ 🌀', url="https://t.me/cpFlicks/23")
+                InlineKeyboardButton('🌿 Jᴏɪɴ Fᴏʀ Mᴏʀᴇ 🌿', url="https://t.me/beatsrip")
             ]]
                 if (temp.MELCOW).get('welcome') is not None:
                     try:
@@ -57,8 +57,8 @@ async def save_group(bot, message):
                     except:
                         pass
                 temp.MELCOW['welcome'] = await message.reply_video(
-                video="https://telegra.ph/file/ebd9cb5d817f79ee50f95.mp4",
-                caption=f"<b>👋 Hey {u.mention},</b><b>Welcome To Cinema Pranthan✔️ Family.</b>",
+                video="https://telegra.ph/file/0be77e07d21e4ce4bb96c.mp4",
+                caption=f"<b>👋 Hey {u.mention}, 𝖶𝖾 𝖢𝖺𝗇 𝖧𝖺𝗏𝖾 𝖲𝗈𝗆𝖾 𝖬𝗎𝗌𝗂𝖼 𝖧𝖾𝗋𝖾.</b>",
                 reply_markup=InlineKeyboardMarkup(buttons))
 
 
